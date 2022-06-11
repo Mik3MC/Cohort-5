@@ -1,0 +1,28 @@
+#fixed {
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 50px;
+}
+
+#wrapper {
+    margin-left: 180px;
+    margin-right: 120px;
+}
+
+#relative {
+    position: relative;
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 110px; 
+}
+
+#absolute {
+    position: absolute;
+    background-color: aqua;
+    padding: 20px 25px 38px 25px;
+    right: -2%;
+    bottom: 0%;
+}
