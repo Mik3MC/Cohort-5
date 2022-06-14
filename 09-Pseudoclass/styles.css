@@ -1,0 +1,31 @@
+button {
+    margin: 15px;
+    background-color: aliceblue;
+    color: black;
+}
+
+button :active {
+    margin: 60px;
+    color: white;
+    background-color: rgb(255, 0, 0);
+
+}
+
+button :hover {
+    font-size: 40px;
+    margin: 70px;
+    color: aquamarine;
+    background-color: rgb(247, 0, 255);
+
+}
+
+:link{
+    color: black;
+
+
+}
+
+
+
+
+
